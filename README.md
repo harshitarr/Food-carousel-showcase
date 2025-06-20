@@ -15,8 +15,8 @@ An animated, rotating food showcase built with **Next.js** and **Tailwind CSS**,
 
 ![Carousel Preview](https://github.com/harshitarr/Food-carousel-showcase/blob/main/public/screenshot1.png) 
 
-## Demo Video
-[Carousel Preview](https://drive.google.com/file/d/1BjiK8uiiABKQ9cI1W2fs2y5jG4FWD32Z/view?usp=sharing) 
+## Demo Link
+[Carousel Preview](https://food-carousel-showcase.vercel.app/) 
 
 ## 🛠️ Tech Stack
 
